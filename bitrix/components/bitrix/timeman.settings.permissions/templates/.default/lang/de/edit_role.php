@@ -1,0 +1,10 @@
+<?
+$MESS["TIMEMAN_ACTION_READ"] = "Lesen";
+$MESS["TIMEMAN_ACTION_UPDATE"] = "Bearbeiten";
+$MESS["TIMEMAN_DEFAULT_OPERATION_TITLE"] = "Zugriff verweigert";
+$MESS["TIMEMAN_ROLE_CANCEL"] = "Abbrechen";
+$MESS["TIMEMAN_ROLE_ENTITY"] = "Element";
+$MESS["TIMEMAN_ROLE_LABEL"] = "Rolle";
+$MESS["TIMEMAN_ROLE_PERMISSION"] = "Zugriffsrecht";
+$MESS["TIMEMAN_ROLE_SAVE"] = "Speichern";
+?>

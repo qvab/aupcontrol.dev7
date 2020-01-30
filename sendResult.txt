@@ -1,0 +1,327 @@
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => test
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br><br/>[msg:426-hgy92b]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.426-HGY92B@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => Новое письмо (09.12.2019 13:36:55)
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea04ce29">
+</div>
+ <br><br/>[msg:432-t1vz7r]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.432-T1VZ7R@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => test
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea085ba0">
+</div>
+ <br><br/>[msg:433-bekuy4]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.433-BEKUY4@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => Новое письмо (09.12.2019 13:49:00)
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea0fda67">
+</div>
+344 <br><br/>[msg:434-b7fgyw]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.434-B7FGYW@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => Новое письмо (09.12.2019 14:55:50)
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea4d09ac">
+</div>
+ <br><br/>[msg:435-a0d1q9]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.435-A0D1Q9@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => o.laktyuhina@roskonsalt-s.ru
+    [SUBJECT] => Новое письмо (09.12.2019 14:55:52)
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea4d09ac">
+</div>
+ вап<br><br/>[msg:436-wel4xr]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.436-WEL4XR@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => Новое письмо (10.12.2019 10:00:28)
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eee64fa44">
+</div>
+7 <br><br/>[msg:437-f1vr58]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.437-F1VR58@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => test
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eeea8bb20">
+</div>
+test<br><br/>[msg:438-7cc86y]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.438-7CC86Y@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => test
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefaee8b6">
+</div>
+test <br><br/>[msg:440-9bbuzt]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.440-9BBUZT@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => crm email
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefb3d311">
+</div>
+crm email test <br><br/>[msg:442-by04b5]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.442-BY04B5@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => gfh
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefbb1d2e">
+</div>
+gfh <br><br/>[msg:443-ynddmj]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.443-YNDDMJ@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => news@crmtd.mts.ru
+    [SUBJECT] => jhkht
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefcda912">
+</div>
+567 <br><br/>[msg:444-0epdqk]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?dGVzdCB0LnRlc3Q=?= <t.test@roskonsalt-s.ru>
+            [Reply-To] => t.test@roskonsalt-s.ru
+            [Cc] => 
+            [Bcc] => 
+            [Message-Id] => <crm.activity.444-0EPDQK@aupcontrol.ru>
+        )
+
+)
+
+
+Array
+(
+    [CHARSET] => UTF-8
+    [CONTENT_TYPE] => html
+    [ATTACHMENT] => Array
+        (
+        )
+
+    [TO] => reply-fec21c7577610d7d-108_html-321406841-1014838-4059787@email.microsoftonline.com
+    [SUBJECT] => fdg23
+    [BODY] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefd464a6">
+</div>
+sdf333 <br><br/>[msg:445-6krx8z]
+    [HEADER] => Array
+        (
+            [From] => =?UTF-8?B?c3B5Y3JhYg==?= <spycrab28@yandex.ru>
+            [Reply-To] => spycrab28@yandex.ru
+            [Cc] => spycrab28@yandex.ru
+            [Bcc] => 
+            [Message-Id] => <crm.activity.445-6KRX8Z@aupcontrol.ru>
+        )
+
+)
+
+

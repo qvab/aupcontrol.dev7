@@ -1,0 +1,3 @@
+<?
+$MESS["INTRANET_STRESSLEVEL_TEMPLATE_DISCLAIMER_TERMS_RU_LINK"] = "https://welltory.com/ru/terms/";
+$MESS["INTRANET_STRESSLEVEL_TEMPLATE_DISCLAIMER_TERMS_EN_LINK"] = "https://welltory.com/terms/";

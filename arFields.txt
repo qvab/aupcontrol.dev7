@@ -1,0 +1,945 @@
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:45:13
+    [END_TIME] => 09.12.2019 10:45:13
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:47:34
+    [END_TIME] => 09.12.2019 10:47:34
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:48:02
+    [END_TIME] => 09.12.2019 10:48:02
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:48:31
+    [END_TIME] => 09.12.2019 10:48:31
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:48:50
+    [END_TIME] => 09.12.2019 10:48:50
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:49:17
+    [END_TIME] => 09.12.2019 10:49:17
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:50:43
+    [END_TIME] => 09.12.2019 10:50:43
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:51:19
+    [END_TIME] => 09.12.2019 10:51:19
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 10:52:03
+    [END_TIME] => 09.12.2019 10:52:03
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16ee95c6616">
+</div>
+ lm<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => Новое письмо (09.12.2019 13:36:55)
+    [START_TIME] => 09.12.2019 13:36:55
+    [END_TIME] => 09.12.2019 13:36:55
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea04ce29">
+</div>
+ <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 09.12.2019 13:40:57
+    [END_TIME] => 09.12.2019 13:40:57
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea085ba0">
+</div>
+ <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => Новое письмо (09.12.2019 13:49:00)
+    [START_TIME] => 09.12.2019 13:49:00
+    [END_TIME] => 09.12.2019 13:49:00
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea0fda67">
+</div>
+344 <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => Новое письмо (09.12.2019 14:55:50)
+    [START_TIME] => 09.12.2019 14:55:50
+    [END_TIME] => 09.12.2019 14:55:50
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea4d09ac">
+</div>
+ <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 70
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => Новое письмо (09.12.2019 14:55:52)
+    [START_TIME] => 09.12.2019 14:55:52
+    [END_TIME] => 09.12.2019 14:55:52
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eea4d09ac">
+</div>
+ вап<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 62
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [a56c146cfe038651bb43bb2b7235c86e] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => o.laktyuhina@roskonsalt-s.ru
+                    [ENTITY_ID] => 62
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 71
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => Новое письмо (10.12.2019 10:00:28)
+    [START_TIME] => 10.12.2019 10:00:28
+    [END_TIME] => 10.12.2019 10:00:28
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eee64fa44">
+</div>
+7 <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 63
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [48ccd6893f2eaa4e622612aac9a36542] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 63
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 72
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 10.12.2019 11:14:34
+    [END_TIME] => 10.12.2019 11:14:34
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eeea8bb20">
+</div>
+test<br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 64
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [5b06e14f88320cdeda608b13efeb6442] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 64
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 72
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => test
+    [START_TIME] => 10.12.2019 16:00:52
+    [END_TIME] => 10.12.2019 16:00:52
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefaee8b6">
+</div>
+test <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 64
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [5b06e14f88320cdeda608b13efeb6442] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 64
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 72
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => crm email
+    [START_TIME] => 10.12.2019 16:06:29
+    [END_TIME] => 10.12.2019 16:06:29
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefb3d311">
+</div>
+crm email test <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 64
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [5b06e14f88320cdeda608b13efeb6442] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 64
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 72
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => gfh
+    [START_TIME] => 10.12.2019 16:14:10
+    [END_TIME] => 10.12.2019 16:14:10
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefbb1d2e">
+</div>
+gfh <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 64
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [5b06e14f88320cdeda608b13efeb6442] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 64
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 72
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => jhkht
+    [START_TIME] => 10.12.2019 16:34:28
+    [END_TIME] => 10.12.2019 16:34:28
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 158
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefcda912">
+</div>
+567 <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 64
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [5b06e14f88320cdeda608b13efeb6442] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => news@crmtd.mts.ru
+                    [ENTITY_ID] => 64
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+
+Array
+(
+    [OWNER_ID] => 67
+    [OWNER_TYPE_ID] => 2
+    [TYPE_ID] => 4
+    [SUBJECT] => fdg23
+    [START_TIME] => 10.12.2019 16:41:47
+    [END_TIME] => 10.12.2019 16:41:47
+    [COMPLETED] => Y
+    [RESPONSIBLE_ID] => 180
+    [PRIORITY] => 2
+    [DESCRIPTION] => <div id="main_mail_form_crm_act_email_create_form_quote_16eefd464a6">
+</div>
+sdf333 <br>
+    [DESCRIPTION_TYPE] => 3
+    [DIRECTION] => 2
+    [LOCATION] => 
+    [NOTIFY_TYPE] => 0
+    [BINDINGS] => Array
+        (
+            [0] => Array
+                (
+                    [OWNER_TYPE_ID] => 3
+                    [OWNER_ID] => 59
+                )
+
+        )
+
+    [COMMUNICATIONS] => Array
+        (
+            [dd06ad425d624511f034afa11e26de2c] => Array
+                (
+                    [ID] => 0
+                    [TYPE] => EMAIL
+                    [VALUE] => reply-fec21c7577610d7d-108_html-321406841-1014838-4059787@email.microsoftonline.com
+                    [ENTITY_ID] => 59
+                    [ENTITY_TYPE_ID] => 3
+                )
+
+        )
+
+    [PARENT_ID] => 0
+)
+
+

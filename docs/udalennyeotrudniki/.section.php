@@ -1,0 +1,6 @@
+<?
+$sSectionName = "Удаленныеотрудники";
+$arDirProperties = Array(
+
+);
+?>

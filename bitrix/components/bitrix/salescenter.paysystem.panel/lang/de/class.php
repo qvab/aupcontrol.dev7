@@ -1,0 +1,18 @@
+<?
+$MESS["SPP_PAYSYSTEM_ADD"] = "Zahlungssystem hinzufügen";
+$MESS["SPP_PAYSYSTEM_CASH_TITLE"] = "Barzahlung";
+$MESS["SPP_PAYSYSTEM_PAYPAL_TITLE"] = "Zahlung per PayPal";
+$MESS["SPP_PAYSYSTEM_QIWI_TITLE"] = "Zahlung per Qiwi";
+$MESS["SPP_PAYSYSTEM_SBERBANKONLINE_TITLE"] = "Kredit- oder Debitkarte (Sberbank)";
+$MESS["SPP_PAYSYSTEM_SETTINGS"] = "#PAYSYSTEM_NAME# konfigurieren";
+$MESS["SPP_PAYSYSTEM_WEBMONEY_TITLE"] = "Zahlung per WebMoney";
+$MESS["SPP_PAYSYSTEM_LIQPAY_TITLE"] = "Zahlung per LiqPay";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_ALFABANK_TITLE"] = "Per AlfaClick bezahlen";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_BANK_CARD_TITLE"] = "Kredit- oder Debitkarte (Yandex.Checkout)";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_QIWI_TITLE"] = "Zahlung per Qiwi";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_SBERBANK_SMS_TITLE"] = "Zahlung per Sberbank SMS";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_SBERBANK_TITLE"] = "Sberbank Online";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_WEBMONEY_TITLE"] = "Zahlung per WebMoney";
+$MESS["SPP_PAYSYSTEM_YANDEXCHECKOUT_YANDEX_MONEY_TITLE"] = "Zahlung per Yandex.Money";
+$MESS["SPP_SALESCENTER_MODULE_ERROR"] = "Das Modul \"Verkauf in Chats\" ist nicht installiert.";
+?>
