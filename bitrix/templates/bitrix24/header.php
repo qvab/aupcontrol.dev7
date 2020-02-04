@@ -130,6 +130,7 @@ $APPLICATION->AddHeadString(
 <title><? if (!$isCompositeMode || $isIndexPage) $APPLICATION->ShowTitle()?></title>
 </head>
 <body class="<?=$bodyClass?>">
+<?$APPLICATION->ShowPanel()?>
 <?
 ThemePicker::getInstance()->showBodyAssets();
 

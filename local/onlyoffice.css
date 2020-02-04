@@ -1,0 +1,31 @@
+.link-onlyoffice {
+    position: absolute;
+    cursor: pointer;
+    left: 45px;
+    top: 7px;
+    background: url(/local/img/ico-edit.png) no-repeat center center;
+    width: 16px;
+    height: 17px;
+    background-size: contain;
+    opacity: 0.6;
+}
+
+.link-onlyoffice:hover {
+    opacity: 1;
+}
+
+#only-office-loader {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    background: rgba(255,255,255,0.6) url(/local/img/loader.gif) no-repeat center center;
+    display: none;
+}
+.link-onlyoffice.type-table {
+    position: absolute;
+    right: 0;
+    left: auto;
+}

@@ -34,4 +34,6 @@ define("BX_COMPRESSION_DISABLED", true);
 define("BX_DISABLE_INDEX_PAGE", true);
 
 define("BX_USE_MYSQLI", true);
+#define("BX_TEMPORARY_FILES_DIRECTORY", "/tmp/php_upload/www");
+
 ?>

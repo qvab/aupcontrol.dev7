@@ -177,23 +177,6 @@ $APPLICATION->IncludeComponent("bitrix:ui.info.helper", "", array());
 	});
 </script>
 <script type="text/javascript">BX.onCustomEvent(window, "onScriptsLoaded");</script>
-<div id="name-mishaninlab"></div>
-
-<script src="//api.bitrix24.com/api/v1/"></script>
-<script>
-  // Make a call to REST when JS SDK is loaded
-  BX24.init(function(){
-
-    BX24.callMethod('user.current', {}, function(res){
-      var name = document.getElementById('name-mishaninlab');
-      name.innerHTML = res.data().NAME + ' ' + res.data().LAST_NAME;
-      console.log(res.data());
-    });
-
-    console.log('B24 SDK is ready!', BX24.isAdmin());
-
-  });
-</script>
-<script type="text/javascript" src="/local/js/custom.js"></script
+<script type="text/javascript" src="/local/js/custom.js?<?=time()?>"></script>
 </body>
 </html>
