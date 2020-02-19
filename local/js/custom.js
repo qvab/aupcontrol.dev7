@@ -86,7 +86,19 @@ var appOnlyOffice = function () {
 
           });
         }
+/*
+        $(".disk-folder-list-item:not(.disk-folder-list-item-folder)").find(".disk-folder-list-item-action").each(function () {
+          var startObj = $(this).next(".disk-folder-list-item-bottom").find(".disk-folder-list-item-title-link");
+          console.log(startObj);
+          var objForData = {
+            id: startObj.attr("data-object-id"),
+            name: startObj.attr("data-title")
+          };
+          $("<a href='' target='_blank' title='Редактирвоание в OnlyOffice' class='link-onlyoffice'></a>").insertAfter(this);
 
+        });
+
+        */
         $(".disk-folder-list-item:not(.disk-folder-list-item-folder)").find(".disk-folder-list-item-action").each(function () {
           $("<div title='Редактирвоание в OnlyOffice' class='link-onlyoffice'></div>")
             .insertAfter(this)
